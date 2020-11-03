@@ -1,0 +1,81 @@
+.col2{
+    background-color: #212121;
+    width: 100%;
+    height: auto;
+    padding: 50px;
+}
+.col1{
+    background-color: #e0f2f1;
+    width: 100%;
+    height: auto;
+    padding: 50px;
+}
+.card{
+    margin: 10px;
+}
+.card-body{
+    padding: 20px;
+}
+.btn{
+    width: 100%;
+    background: #ffd600;
+    border-right: 5px;
+    padding: 2px;
+    justify-content: center;
+    color: black;
+    border: 0px;
+}
+.btn-zoom{
+    box-shadow: 0 0 1px #ccc;
+}
+.btn-zoom:hover{
+    background-color: #f9a825;
+}
+.footer{
+    margin: 0px 80px 0px 80px;
+    text-align: left;
+}
+.page-footer{
+    bottom: 0;
+    background-color: #242423;
+    color:white;
+    font-size: 13px;
+}
+.page-footer a{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+}
+.page-footer a:hover{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+}
+.page-footer h5{
+    border-bottom: 2px solid #e53935;
+    padding-bottom: 2px;
+    width: 100%;
+}
+input[type=text]{
+  width: 100%;
+  padding: 2px;
+  border: 1px solid black;
+  border-radius: 1px;
+  resize: vertical;
+  background-color:black;
+  border-radius: 5px;
+}
+.btn-submit{
+    border-radius: 10px;
+    background-color: #e53935;
+    padding: 5px;
+    width: 50%;
+    color: white;
+    border-style: none;
+}
+.footer-copyright{
+    bottom: 0;
+    background-color: black;
+    color:white;
+    width: 100%;
+}
